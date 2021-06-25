@@ -1,0 +1,38 @@
+h1{
+  background-color: lightgray;
+  border-left: 7px solid red;
+  width: 527px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+.form{
+  background-color: #eee;
+  width:500px;
+  border: 2px solid lightgrey;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.grey_button{
+  margin-top: 20px;
+  background-color: lightgray;
+  color: white;
+  border:0px;
+  border-bottom: 2px solid gray;
+  border-radius: 4px;
+  padding:5px 10px;
+}
+.orange_button{
+  margin-top: 20px;
+  background-color: orange;
+  color: white;
+  border:0px;
+  border-bottom: 2px solid gray;
+  border-radius: 4px;
+  padding:5px 10px;
+  margin-left: 10px;
+}
+form{
+  display: inline;
+}

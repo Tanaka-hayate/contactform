@@ -1,0 +1,34 @@
+h1{
+  background-color: lightgray;
+  border-left: 7px solid red;
+  width: 517px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+
+.form{
+  background-color: #eee;
+  width:500px;
+  border: 2px solid lightgrey;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.form p{
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+p.a{
+  margin-top:0px;
+}
+.button{
+  margin-top: 20px;
+  background-color: lightgray;
+  color: white;
+  border:0px;
+  border-bottom: 2px solid gray;
+  border-radius: 4px;
+  padding:5px 10px;
+}
